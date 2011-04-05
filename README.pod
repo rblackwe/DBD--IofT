@@ -852,7 +852,7 @@ The module does not currently support exporting tag attributes or
 "folding out" nested column information, but those are planned for
 future releases.
 
-back
+=back
 
 =head2 USER-DEFINED DATA STRUCTURES
 
